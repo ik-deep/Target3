@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "id":1,
+            "img": "./images/img2.jpg",
+            "title" : "Nature Image",
+            "discription": "What good is a dog list without photos? In this episode, we'll add image URL's to our JSON file and then display the images using PHP."
+
+        },
+        {
+            "id":2,
+            "img": "./images/im1.jpg",
+            "title" : "Sunset Image",
+            "discription": "What good is a dog list without photos? In this episode, we'll add image URL's to our JSON file and then display the images using PHP."
+
+
+        },
+        {
+            "id":3,
+            "img": "./images/img3.jpg",
+            "title" : "forest Image",
+            "discription": "What good is a dog list without photos? In this episode, we'll add image URL's to our JSON file and then display the images using PHP."
+
+
+        },
+        {
+            "id":4,
+            "img": "./images/img4.jpg",
+            "title" : "Nature Image",
+            "discription": "What good is a dog list without photos? In this episode, we'll add image URL's to our JSON file and then display the images using PHP."
+
+
+        },
+        {
+            "id":5,
+            "img": "./images/img5.jpg",
+            "title" : "flower Image",
+            "discription": "What good is a dog list without photos? In this episode, we'll add image URL's to our JSON file and then display the images using PHP."
+
+
+        }
+    ]
+    
+}
